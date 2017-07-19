@@ -1,4 +1,4 @@
-ruby '2.3.1', engine: 'jruby', engine_version: '9.1.5.0'
+ruby '2.3.3', engine: 'jruby', engine_version: '9.1.12.0'
 
 source 'https://rubygems.org'
 
