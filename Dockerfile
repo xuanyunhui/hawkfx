@@ -1,2 +1,2 @@
 FROM jruby:9-onbuild
-CMD ["./hawkfx.rb"]
+CMD ["jruby -G -S hawkfx.rb"]
